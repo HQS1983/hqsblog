@@ -1,0 +1,28 @@
+{
+  "name": "hqsblog",
+  "version": "1.0.0",
+  "description": "hqs的个人博客",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HQS1983/hqsblog.git"
+  },
+  "keywords": [
+    "hqsblog"
+  ],
+  "author": "hqs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HQS1983/hqsblog/issues"
+  },
+  "homepage": "https://github.com/HQS1983/hqsblog#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "mysql": "^2.10.2"
+  }
+}
